@@ -1,3 +1,6 @@
+FORK : Docker build.
+
+
 # Stremio Addon Manager
 Manage your Stremio addons with ease.
 
