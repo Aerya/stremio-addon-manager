@@ -2,6 +2,7 @@
   <section id="features">
     <h2>Note</h2>
     <p>
+      [Aerya] J’ai forké le travail de Viren070, car personne jusqu’ici n’avait eu l’idée de publier une image Docker pour simplifier le déploiement de cet outil.
       This is an instance built from <a href="https://github.com/Viren070/stremio-addon-manager" target="_blank">my fork</a> of <a href="https://github.com/redd-ravenn/stremio-addon-manager" target="_blank">redd-raven's fork</a> of <a href="https://github.com/pancake3000/stremio-addon-manager" target="_blank">pancake3000's addon manager</a>.<br>
       This instance allows you to rename or delete catalogues.<br><br>
       Full credit goes to pancake3000 for the original addon manager and redd-ravenn for the functionality to rename or delete catalogues.<br>
